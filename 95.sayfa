@@ -1,0 +1,18 @@
+
+<select name="riskharitasi" multiples
+<option selected value="none">Hiçbiri</option>
+<optgroup label="Kırmızı">
+<option value="k1">Sakarya</option>
+<option value="k2">Konya</option>
+<option value="k3">Balıkesir</option>
+</optgroup>
+<optgroup label="Sarı">
+<option value="s1">Eskişehir</option>
+<option value="s2">Kırşehir</option>
+<option value="s3">Yozgat</option>
+</optgroup>
+<optgroup label="Turuncu">
+<option value="t1">Artvin</option>
+<option value="t2">Çanakkale</option>
+<option value="t3">Kütahya</option>
+</optgroup>
