@@ -1,0 +1,18 @@
+<form action="islem1.html" autocomplete="on">
+<input formmethod="get" placeholder="Form Metodu get post">
+<input formovalidate="formnovalidate" placeholder="Veri Tip Uyumu Kor
+<input type="email" id="eposta" name="eposta" autocomplete="on" pla
+tomatik açık">
+<input type="date" id="tarihmin" name="tarihmin" in=^ 2021 * 5 - 1 deg >
+<inputtype="number" id="aralik" name="aralik" min="1" max="5" placehold
+<input type="password" pattern=".(6,)" title="Altı veya daha fazla" placeho faria
+<input type="password" pattern =^ prime prime (?=.^ * backslash d)(?=.^ * [a - z] )(?=.^ * [A-Z]),(8,)^ - placeholde <input type="email" pattern="[a" placehcidenTA
+<input type="url" pattern="https?://.+" placeholder="http://dahil edin>>[a-z0-9_8+]+@ [a-z0-9-]+\, [a-z] (2,15
+<input type="number" step="2" placeholder="Çift Sayı">
+<input list="hazirliste"><datalist id="hazirliste">
+<option value="Öğretmen">
+<option value="Öğrenci">
+<option value="Vell">
+</datalist>
+<input type="sutimit" value="Gönder">
+<input type="submit" formaction="islema
