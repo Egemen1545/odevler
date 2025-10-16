@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <mate charset="UTF-8">
+    <title>İlk HTML5 Belgesi ve  Anlaşılan Etkileri</title>
+<head>
+<body>
+
+      <nav>
+            <h2>MENÜ </h2>
+            <ul>
+                  <li><a href="index.html">Ana SAYFA </a></li>
+                  <li><a href="hakkimda.html">Hakkımda</a></li>
+                  <li><a href="sehrim.html">Şehrim</a></li>
+                  <li><a href="iletisim.html">İletişim</a></li>
+            </ul>
+      </nav>
+<p>Wep Sayfası İçeriğ>
+    <article>
+            <section>
+                 Okuldan Haberler
+            </section>
+    </article>
+    <article>
+            <section>
+                  Sağlık Haberleri
+            </section>
+    </article>
+    <figure><
+            <img src="log.png" alt="logom"/>
+                <figcaption>
+                        <a href= "url">Benim logom</a>,daha fazlası iç
+                </figcaption>
+    </figure> 
+
+    <footer>
+        <h3 id=  "yazar"><HTML5 yazarı:Egemen</h3>
+    </footer>
+</p>
+</body>
+</html>
